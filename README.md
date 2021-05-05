@@ -707,7 +707,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Open Source Security
 
-[Back to the Top](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Cisco-Guide/blob/main/README.md#table-of-contents)
 
 
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
@@ -1540,21 +1540,15 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Back to the Top](https://github.com/mikeroyal/Cisco-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/95128610-89564100-070e-11eb-83de-9697fb490886.png">
+ <img src="https://user-images.githubusercontent.com/45159366/117216357-7bf05a80-adb4-11eb-932e-b5aa75bcc771.png">
   <br />
 </p>
 
 ## PowerShell Learning Resources
 
-[Introduction to Bash Shell Scripting by Coursera](https://www.coursera.org/projects/introduction-to-bash-shell-scripting)
-
-[Bash: Shell Script Basics by Pluralsight](https://www.pluralsight.com/courses/bash-shell-scripting)
-
-[Bash/Shell by Codecademy](https://www.codecademy.com/catalog/language/bash)
+[Getting Started with PowerShell](https://docs.microsoft.com/en-us/powershell/)
 
 [Windows Remote Management in Ansible using PowerShell](https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html)
-
-[Getting Started with PowerShell](https://docs.microsoft.com/en-us/powershell/)
 
 [PowerShell in Azure Cloud Shell](https://aka.ms/cloudshell/powershell-docs)
 
@@ -1577,8 +1571,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 
 ## PowerShell Tools
-
-[Bash](https://www.gnu.org/software/bash/) is the GNU Project's shell(Bourne Again SHell), which is an sh-compatible shell that integrates together useful features from the Korn shell (ksh) and the C shell (csh).
 
 [PowerShell Core](https://microsoft.com/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (JSON, CSV, XML, etc.), REST APIs, and object models. It also includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
 
