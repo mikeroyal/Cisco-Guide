@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117212480-409f5d00-adaf-11eb-9490-9b62d22d5687.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -45,11 +49,6 @@
 </p>
  
 **Cisco MultiCloud Architecture. Source: [Cisco](https://docs.cloudmgmt.cisco.com/display/CCSSDK/Configure+the+Custom+Cloud+Type)**
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117212480-409f5d00-adaf-11eb-9490-9b62d22d5687.png">
-  <br />
-</p>
 
 # Cisco Learning Resources
 
